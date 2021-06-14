@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float32-max-safe-integer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Maximum safe single-precision floating-point integer.",
   "license": "Apache-2.0",
   "author": {
