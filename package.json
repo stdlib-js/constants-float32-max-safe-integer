@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/constants-float32-max-safe-integer",
+  "version": "0.0.0",
+  "description": "Maximum safe single-precision floating-point integer.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float32-max-safe-integer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "max",
+    "maximum",
+    "safe",
+    "integer",
+    "single",
+    "floating",
+    "point",
+    "floating-point",
+    "float",
+    "float32",
+    "ieee754"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
