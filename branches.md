@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-integer"
-click B href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/main"
-click C href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/production"
-click D href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/esm"
-click E href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/deno"
-click F href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-integer"
+%% click B href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/main"
+%% click C href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/production"
+%% click D href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/esm"
+%% click E href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/deno"
+%% click F href "https://github.com/stdlib-js/constants-float32-max-safe-integer/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-integer

@@ -156,9 +156,9 @@ Macro for the maximum [safe][safe-integers] [single-precision floating-point][ie
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe half-precision floating-point integer.</span>
--   <span class="package-name">[`@stdlib/constants/float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe single-precision floating-point integer.</span>
--   <span class="package-name">[`@stdlib/constants/float64/max-safe-integer`][@stdlib/constants/float64/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe double-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants-float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe half-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants-float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe single-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-safe-integer`][@stdlib/constants/float64/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe double-precision floating-point integer.</span>
 
 </section>
 
