@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@deno/mod.js';
+import FLOAT32_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT32_MAX_SAFE_INTEGER
@@ -68,7 +68,7 @@ var bool = ( FLOAT32_MAX_SAFE_INTEGER === 16777215 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@deno/mod.js';
-import FLOAT32_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@deno/mod.js';
+import FLOAT32_MAX_SAFE_INTEGER from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@v0.1.0-deno/mod.js';
 
 var max;
 var x;
