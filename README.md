@@ -44,7 +44,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-FLOAT32_MAX_SAFE_INTEGER = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@umd/browser.js' )
+FLOAT32_MAX_SAFE_INTEGER = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@v0.2.2-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -56,7 +56,7 @@ var FLOAT32_MAX_SAFE_INTEGER = require( 'path/to/vendor/umd/constants-float32-ma
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@v0.2.2-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -95,7 +95,7 @@ var bool = ( FLOAT32_MAX_SAFE_INTEGER === 16777215 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-integer@v0.2.2-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
